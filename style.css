@@ -1,0 +1,57 @@
+li {
+        float: left;
+    }
+    
+    li a {
+        display: block;
+        padding: 40px;
+        color: black;
+        text-align: center;
+        text-decoration: none;
+    }
+    ul{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        background-color: antiquewhite;
+        overflow: hidden;
+    
+        position: sticky;
+        top: 0;
+    }
+  
+h1 {
+    color: black; font-weight: bold;
+    letter-spacing: .4em;
+ }
+         a[target] {
+   background-color: wheat;
+ }
+         #date {
+   background-color: lightblue;
+ }
+         div p {
+             background-color: lightblue;
+ }
+        p.sentence {
+                background-color: antiquewhite;
+        }
+         div h2 {
+   background-color: rgb(190, 134, 60);
+   color: white;
+   text-align: center;
+ }
+         a:hover {
+   color: yellow;
+ }
+        h1 {
+            background-color: lightblue;
+}
+        h1 {
+    text-align: center;
+}
+        section1 {
+    text-align: center;
+}
+
+
